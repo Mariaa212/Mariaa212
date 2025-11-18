@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! :v:
 
-<!--
-**Mariaa212/Mariaa212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Maria](www.linkedin.com/in/maria-gavrilenko-733720331), a BA Digital Arts and Technology student based in Ireland.\
+I enjoy bringing tech and art together!
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm currently working on Pac-man in Java as part of Object Oriented Programming.\
+🌱 I’m currently learning OOP, Database Systems, Linux and Cloud Computing Fundamentals.
+
+#### fun facts:
+- I have two cats
+- I LOVE coffee
+- The Apothecary Diaries is my favourite anime
+- **Hobbies:** drawing, anime, gym, building things
+
